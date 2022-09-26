@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1d18191-5510-4a3d-99a9-a7a17f06ab6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel reservation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/CreateAnAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/FindAndReserveARoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/SeeMyReservations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/findARoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/AdminResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/HotelResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/FreeRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/IRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ReservationService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FEcoRLMmhweNJSJJl2OcQHD6Jw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/e-roh/Desktop/hotel reservation"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="hotel reservation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1d18191-5510-4a3d-99a9-a7a17f06ab6d" name="Changes" comment="" />
+      <created>1664060862379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664060862379</updated>
+    </task>
+    <servers />
+  </component>
+</project>
